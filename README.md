@@ -4,7 +4,7 @@ A project on Graph Modeling and Graph Algorithms
 This project uses the Boost library to implement an algorithm to find
 a path through a bidirectional maze(implemented as a graph).
 
-##Instructions:
+## Instructions:
 
 After putting the 'input.txt' file into the same folder,
 use the MAKEFILE in the included folder by running a command.
