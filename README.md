@@ -1,4 +1,6 @@
 # GraphMazeSolver
+Analysis of Algorithms - USF Fall 2019
+
 A project on Graph Modeling and Graph Algorithms
 
 This project uses the Boost library to implement an algorithm to find
